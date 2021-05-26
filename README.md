@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Programming, development and many more things
 - 💬 Ask me about <strong> Java, C++ and Data Structure and Algorithm</strong>
 - 🌱 I'm currently learning <strong>MERN Stack</strong>
-- 📫 How to reach me <a href="https://www.linkedin.com/in/imravianand/" target="_blank">LinkedIn</a> | <a href = "mailto: ravianandfbg.com">Personal Email</a> | <a href = "mailto: 18bcs6553@cuchd.in">College Email</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/imravianand/" target="_blank">LinkedIn</a> | <a href = "mailto: ravianandfbg@gmail.com">Personal Email</a> | <a href = "mailto: 18bcs6553@cuchd.in">College Email</a>
 
 
 <p>
