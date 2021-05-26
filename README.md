@@ -74,10 +74,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-### Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ravianandfbg&show_icons=true)
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravianandfbg.ravianandfbg)
 
