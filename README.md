@@ -12,9 +12,14 @@
 - 🌱 I'm currently learning <strong>MERN Stack</strong>
 
 ## Connect with me !!!!
-[<img align="left" alt="imravi_anand | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="imravianand | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="imravi_anand | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align ="center">
+  <a href="https://www.linkedin.com/in/imravianand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/imravi_anand" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/imravi_anand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"></a>
+  
+</p>
 
 
 <!---
