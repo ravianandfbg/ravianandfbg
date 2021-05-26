@@ -23,18 +23,6 @@ You can click the Preview link to take a look at your changes.
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravianandfbg&show_icons=true&locale=en&layout=compact" alt="ravianandfbg" /></p>
 
-## 📲  Connect with me !!!!
-
-<p align ="center">
-  <a href="https://www.linkedin.com/in/imravianand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/imravi_anand" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/imravi_anand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"></a>
-</p>
-
-
-
 ### 💻  Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -68,5 +56,20 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+
+
+## 📲  Connect with me !!!!
+
+<p align ="center">
+  <a href="https://www.linkedin.com/in/imravianand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/imravi_anand" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/imravi_anand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"></a>
+</p>
+
+
+
+
+
+
