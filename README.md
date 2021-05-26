@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<!---
+ravianandfbg/ravianandfbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 
 ### Hii there, I'm Ravi Anand👋
 
@@ -11,7 +17,13 @@
 - 💬 Ask me about <strong> Java, C++ and Data Structure and Algorithm</strong>
 - 🌱 I'm currently learning <strong>MERN Stack</strong>
 
-## 📲Connect with me !!!!
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravianandfbg&show_icons=true" alt="ravianandfbg">
+</p>
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravianandfbg&show_icons=true&locale=en&layout=compact" alt="ravianandfbg" /></p>
+
+## 📲  Connect with me !!!!
 
 <p align ="center">
   <a href="https://www.linkedin.com/in/imravianand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
@@ -23,7 +35,7 @@
 
 
 
-### 💻 Languages and Tools:
+### 💻  Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -60,7 +72,4 @@
 <br />
 
 
-<!---
-ravianandfbg/ravianandfbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
