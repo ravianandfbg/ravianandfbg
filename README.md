@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I'm currently learning <strong>MERN Stack</strong>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/imravianand/" target="_blank">LinkedIn</a> | <a href = "mailto: ravianandfbg@gmail.com">Personal Email</a> | <a href = "mailto: 18bcs6553@cuchd.in">College Email</a>
 
-
+### Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ravianandfbg&show_icons=true" alt="ravianandfbg">
 </p>
@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=felixgomez&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ravianandfbg&show_icons=true)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravianandfbg.ravianandfbg)
