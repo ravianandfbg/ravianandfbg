@@ -7,9 +7,9 @@
 
 ### Hii there, I'm Ravi Anand👋
 
-##I'm a Student, Developer, and Human Being😃
--💬 Ask me about <strong> Java, C++ and Data Structure and Algorithm</strong>
--🌱 I'm currently learning <strong>MERN Stack</strong>
+## I'm a Student, Developer, and Human Being😃
+- 💬 Ask me about <strong> Java, C++ and Data Structure and Algorithm</strong>
+- 🌱 I'm currently learning <strong>MERN Stack</strong>
 
 
 <!---
