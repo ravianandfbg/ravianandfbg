@@ -1,7 +1,6 @@
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="240"/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/58eb397c4e6bf6449c8096a30adf4e5b/tumblr_obtqvv5IWo1vur2auo1_540.gifv" width="240"/>
 
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 <!-- - 👋 Hi, I’m @ravianandfbg
 - 👀 I’m interested in ...
