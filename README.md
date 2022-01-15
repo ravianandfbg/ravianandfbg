@@ -78,7 +78,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-                                             ### Show some ❤️ by starring some of the repositories!
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravianandfbg.ravianandfbg)
 
