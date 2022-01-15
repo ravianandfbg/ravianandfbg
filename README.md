@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ravianandfbg&show_icons=true" alt="ravianandfbg">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravianandfbg&show_icons=true&theme=tokyonight" alt="ravianandfbg">
 </p>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravianandfbg&show_icons=true&locale=en&layout=compact" alt="ravianandfbg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravianandfbg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ravianandfbg" /></p>
 
 
 ###  💻   Languages and Tools:
