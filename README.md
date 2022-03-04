@@ -82,6 +82,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Linkedin Badge](https://img.shields.io/badge/-RaviAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravianandfbg/)](https://www.linkedin.com/in/imravianand/)
 
+[![Instagram Badge](https://img.shields.io/badge/-RaviAnand-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/imravi_anand/)](https://www.instagram.com/imravi_anand/)
+
 
 <!-- ACTIVITY GRAPH TRACKER -->
 [![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=ravianandfbg&theme=react-dark)](https://github.com/ravianandfbg/github-readme-activity-graph)
