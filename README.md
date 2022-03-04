@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/imravi_anand/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"></a>
 </p> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravianandfbg/)](https://www.linkedin.com/in/imravianand/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ravi Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravianandfbg/)](https://www.linkedin.com/in/imravianand/)
 
 
 <!-- ACTIVITY GRAPH TRACKER -->
