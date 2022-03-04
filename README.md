@@ -81,6 +81,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=ravianandfbg&theme=react-dark)](https://github.com/ravianandfbg/github-readme-activity-graph)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
