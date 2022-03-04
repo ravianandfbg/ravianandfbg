@@ -84,6 +84,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ACTIVITY GRAPH TRACKER -->
 [![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=ravianandfbg&theme=react-dark)](https://github.com/ravianandfbg/github-readme-activity-graph)
 
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
@@ -91,7 +92,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravianandfbg.ravianandfbg)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ravianandfbg.ravianandfbg) -->
+
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/ravianandfbg/count.svg?align=center)
 
 
 
