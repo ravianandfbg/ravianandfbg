@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hii there, I'm Ravi Anand👋
 
-## I'm a Student, Developer, and Human Being😃
+## I'm a Software Developer😃
 - 👀 I’m interested in Programming, development and many more things
 - 💬 Ask me about <strong> Java, C++ and Data Structure and Algorithm</strong>
 - 🌱 I'm currently learning <strong>MERN Stack</strong>
